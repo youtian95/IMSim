@@ -1,0 +1,268 @@
+﻿  IMSim.cpp
+D:\C++程序\IMSim\IMSim\GMPE.h(23,1): warning C4305: “参数”: 从“double”到“const float”截断
+D:\C++程序\IMSim\IMSim\GMPE.h(24,1): warning C4305: “参数”: 从“double”到“const float”截断
+D:\C++程序\IMSim\IMSim\GMPE.h(25,1): warning C4305: “参数”: 从“double”到“const float”截断
+D:\C++程序\IMSim\IMSim\GMPE.h(26,1): warning C4305: “参数”: 从“double”到“const float”截断
+D:\C++程序\IMSim\IMSim\GMPE.h(27,1): warning C4305: “参数”: 从“double”到“const float”截断
+D:\C++程序\IMSim\IMSim\GMPE.h(28,1): warning C4305: “参数”: 从“double”到“const float”截断
+D:\C++程序\IMSim\IMSim\GMPE.h(30,1): warning C4305: “参数”: 从“double”到“const float”截断
+D:\C++程序\IMSim\IMSim\GMPE.h(31,1): warning C4305: “参数”: 从“double”到“const float”截断
+D:\C++程序\IMSim\IMSim\GMPE.h(33,1): warning C4305: “参数”: 从“double”到“const float”截断
+D:\C++程序\IMSim\IMSim\GMPE.h(34,1): warning C4305: “参数”: 从“double”到“const float”截断
+D:\C++程序\IMSim\IMSim\GMPE.h(35,1): warning C4305: “参数”: 从“double”到“const float”截断
+D:\C++程序\IMSim\IMSim\GMPE.h(36,1): warning C4305: “参数”: 从“double”到“const float”截断
+D:\C++程序\IMSim\IMSim\GMPE.h(37,1): warning C4305: “参数”: 从“double”到“const float”截断
+D:\C++程序\IMSim\IMSim\GMPE.h(38,1): warning C4305: “参数”: 从“double”到“const float”截断
+D:\C++程序\IMSim\IMSim\GMPE.h(39,1): warning C4305: “参数”: 从“double”到“const float”截断
+D:\C++程序\IMSim\IMSim\GMPE.h(40,1): warning C4305: “参数”: 从“double”到“const float”截断
+D:\C++程序\IMSim\IMSim\GMPE.h(41,1): warning C4305: “参数”: 从“double”到“const float”截断
+D:\C++程序\IMSim\IMSim\GMPE.h(42,1): warning C4305: “参数”: 从“double”到“const float”截断
+D:\C++程序\IMSim\IMSim\GMPE.h(43,1): warning C4305: “参数”: 从“double”到“const float”截断
+D:\C++程序\IMSim\IMSim\GMPE.h(44,1): warning C4305: “参数”: 从“double”到“const float”截断
+D:\C++程序\IMSim\IMSim\GMPE.h(47,1): warning C4305: “参数”: 从“double”到“const float”截断
+D:\C++程序\IMSim\IMSim\GMPE.h(48,1): warning C4305: “参数”: 从“double”到“const float”截断
+D:\C++程序\IMSim\IMSim\GMPE.h(49,1): warning C4305: “参数”: 从“double”到“const float”截断
+D:\C++程序\IMSim\IMSim\GMPE.h(50,1): warning C4305: “参数”: 从“double”到“const float”截断
+D:\C++程序\IMSim\IMSim\GMPE.h(51,1): warning C4305: “参数”: 从“double”到“const float”截断
+D:\C++程序\IMSim\IMSim\GMPE.h(52,1): warning C4305: “参数”: 从“double”到“const float”截断
+D:\C++程序\IMSim\IMSim\GMPE.h(54,1): warning C4305: “参数”: 从“double”到“const float”截断
+D:\C++程序\IMSim\IMSim\GMPE.h(55,1): warning C4305: “参数”: 从“double”到“const float”截断
+D:\C++程序\IMSim\IMSim\GMPE.h(57,1): warning C4305: “参数”: 从“double”到“const float”截断
+D:\C++程序\IMSim\IMSim\GMPE.h(58,1): warning C4305: “参数”: 从“double”到“const float”截断
+D:\C++程序\IMSim\IMSim\GMPE.h(60,1): warning C4305: “参数”: 从“double”到“const float”截断
+D:\C++程序\IMSim\IMSim\GMPE.h(61,1): warning C4305: “参数”: 从“double”到“const float”截断
+D:\C++程序\IMSim\IMSim\GMPE.h(62,1): warning C4305: “参数”: 从“double”到“const float”截断
+D:\C++程序\IMSim\IMSim\GMPE.h(63,1): warning C4305: “参数”: 从“double”到“const float”截断
+D:\C++程序\IMSim\IMSim\GMPE.h(64,1): warning C4305: “参数”: 从“double”到“const float”截断
+D:\C++程序\IMSim\IMSim\GMPE.h(65,1): warning C4305: “参数”: 从“double”到“const float”截断
+D:\C++程序\IMSim\IMSim\GMPE.h(121,1): warning C4305: “参数”: 从“double”到“const float”截断
+D:\C++程序\IMSim\IMSim\GMPE.h(122,1): warning C4305: “参数”: 从“double”到“const float”截断
+D:\C++程序\IMSim\IMSim\GMPE.h(129,1): warning C4554: “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+D:\C++程序\IMSim\IMSim\GMPE.h(130,1): warning C4554: “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+D:\C++程序\IMSim\IMSim\GMPE.h(197,22): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\C++程序\IMSim\IMSim\GMPE.h(198,25): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\C++程序\IMSim\IMSim\GMPE.h(199,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\C++程序\IMSim\IMSim\GMPE.h(206,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\C++程序\IMSim\IMSim\GMPE.h(251,18): warning C4244: “初始化”: 从“Eigen::EigenBase<Derived>::Index”转换到“int”，可能丢失数据
+          with
+          [
+              Derived=Eigen::Matrix<float,-1,1,0,-1,1>
+          ]
+D:\C++程序\IMSim\IMSim\GMPE.h(281,14): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+D:\C++程序\IMSim\IMSim\GMPE.h(281,26): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+D:\C++程序\IMSim\IMSim\GMPE.h(282,17): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+D:\C++程序\IMSim\IMSim\GMPE.h(282,30): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+D:\C++程序\IMSim\IMSim\GMPE.h(283,17): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+D:\C++程序\IMSim\IMSim\GMPE.h(283,28): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+D:\C++程序\IMSim\IMSim\GMPE.h(284,15): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+D:\C++程序\IMSim\IMSim\GMPE.h(284,24): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+D:\C++程序\IMSim\IMSim\GMPE.h(285,24): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\C++程序\IMSim\IMSim\GMPE.h(286,31): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\C++程序\IMSim\IMSim\GMPE.h(287,29): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\C++程序\IMSim\IMSim\GMPE.h(290,22): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\C++程序\IMSim\IMSim\GMPE.h(298,21): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\C++程序\IMSim\IMSim\GMPE.h(299,24): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\C++程序\IMSim\IMSim\GMPE.h(300,22): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\C++程序\IMSim\IMSim\GMPE.h(307,22): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\C++程序\IMSim\IMSim\SimulateResiduals.h(41,1): warning C4305: “参数”: 从“double”到“const float”截断
+D:\C++程序\IMSim\IMSim\SimulateResiduals.h(42,1): warning C4305: “参数”: 从“double”到“const float”截断
+D:\C++程序\IMSim\IMSim\SimulateResiduals.h(43,1): warning C4305: “参数”: 从“double”到“const float”截断
+D:\C++程序\IMSim\IMSim\SimulateResiduals.h(44,1): warning C4305: “参数”: 从“double”到“const float”截断
+D:\C++程序\IMSim\IMSim\SimulateResiduals.h(45,1): warning C4305: “参数”: 从“double”到“const float”截断
+D:\C++程序\IMSim\IMSim\SimulateResiduals.h(46,1): warning C4305: “参数”: 从“double”到“const float”截断
+D:\C++程序\IMSim\IMSim\SimulateResiduals.h(47,1): warning C4305: “参数”: 从“double”到“const float”截断
+D:\C++程序\IMSim\IMSim\SimulateResiduals.h(48,1): warning C4305: “参数”: 从“double”到“const float”截断
+D:\C++程序\IMSim\IMSim\SimulateResiduals.h(49,1): warning C4305: “参数”: 从“double”到“const float”截断
+D:\C++程序\IMSim\IMSim\SimulateResiduals.h(50,1): warning C4305: “参数”: 从“double”到“const float”截断
+D:\C++程序\IMSim\IMSim\SimulateResiduals.h(51,1): warning C4305: “参数”: 从“double”到“const float”截断
+D:\C++程序\IMSim\IMSim\SimulateResiduals.h(52,1): warning C4305: “参数”: 从“double”到“const float”截断
+D:\C++程序\IMSim\IMSim\SimulateResiduals.h(53,1): warning C4305: “参数”: 从“double”到“const float”截断
+D:\C++程序\IMSim\IMSim\SimulateResiduals.h(54,1): warning C4305: “参数”: 从“double”到“const float”截断
+D:\C++程序\IMSim\IMSim\SimulateResiduals.h(55,1): warning C4305: “参数”: 从“double”到“const float”截断
+D:\C++程序\IMSim\IMSim\SimulateResiduals.h(56,1): warning C4305: “参数”: 从“double”到“const float”截断
+D:\C++程序\IMSim\IMSim\SimulateResiduals.h(57,1): warning C4305: “参数”: 从“double”到“const float”截断
+D:\C++程序\IMSim\IMSim\SimulateResiduals.h(58,1): warning C4305: “参数”: 从“double”到“const float”截断
+D:\C++程序\IMSim\IMSim\SimulateResiduals.h(59,1): warning C4305: “参数”: 从“double”到“const float”截断
+D:\C++程序\IMSim\IMSim\SimulateResiduals.h(60,1): warning C4305: “参数”: 从“double”到“const float”截断
+D:\C++程序\IMSim\IMSim\SimulateResiduals.h(61,1): warning C4305: “参数”: 从“double”到“const float”截断
+D:\C++程序\IMSim\IMSim\SimulateResiduals.h(63,1): warning C4305: “初始化”: 从“double”到“float”截断
+D:\C++程序\IMSim\IMSim\SimulateResiduals.h(64,1): warning C4305: “初始化”: 从“double”到“float”截断
+D:\C++程序\IMSim\IMSim\SimulateResiduals.h(65,1): warning C4305: “初始化”: 从“double”到“float”截断
+D:\C++程序\IMSim\IMSim\SimulateResiduals.h(66,1): warning C4305: “初始化”: 从“double”到“float”截断
+D:\C++程序\IMSim\IMSim\SimulateResiduals.h(67,1): warning C4305: “初始化”: 从“double”到“float”截断
+D:\C++程序\IMSim\IMSim\SimulateResiduals.h(68,1): warning C4305: “初始化”: 从“double”到“float”截断
+D:\C++程序\IMSim\IMSim\SimulateResiduals.h(69,1): warning C4305: “初始化”: 从“double”到“float”截断
+D:\C++程序\IMSim\IMSim\SimulateResiduals.h(70,1): warning C4305: “初始化”: 从“double”到“float”截断
+D:\C++程序\IMSim\IMSim\SimulateResiduals.h(71,1): warning C4305: “初始化”: 从“double”到“float”截断
+D:\C++程序\IMSim\IMSim\SimulateResiduals.h(72,1): warning C4305: “初始化”: 从“double”到“float”截断
+D:\C++程序\IMSim\IMSim\SimulateResiduals.h(73,1): warning C4305: “初始化”: 从“double”到“float”截断
+D:\C++程序\IMSim\IMSim\SimulateResiduals.h(74,1): warning C4305: “初始化”: 从“double”到“float”截断
+D:\C++程序\IMSim\IMSim\SimulateResiduals.h(75,1): warning C4305: “初始化”: 从“double”到“float”截断
+D:\C++程序\IMSim\IMSim\SimulateResiduals.h(76,1): warning C4305: “初始化”: 从“double”到“float”截断
+D:\C++程序\IMSim\IMSim\SimulateResiduals.h(77,1): warning C4305: “初始化”: 从“double”到“float”截断
+D:\C++程序\IMSim\IMSim\SimulateResiduals.h(78,1): warning C4305: “初始化”: 从“double”到“float”截断
+D:\C++程序\IMSim\IMSim\SimulateResiduals.h(79,1): warning C4305: “初始化”: 从“double”到“float”截断
+D:\C++程序\IMSim\IMSim\SimulateResiduals.h(80,1): warning C4305: “初始化”: 从“double”到“float”截断
+D:\C++程序\IMSim\IMSim\SimulateResiduals.h(81,1): warning C4305: “初始化”: 从“double”到“float”截断
+D:\C++程序\IMSim\IMSim\SimulateResiduals.h(93,19): warning C4244: “初始化”: 从“Eigen::EigenBase<Derived>::Index”转换到“int”，可能丢失数据
+          with
+          [
+              Derived=Eigen::Matrix<float,-1,1,0,-1,1>
+          ]
+D:\C++程序\IMSim\IMSim\SimulateResiduals.h(173,19): warning C4244: “初始化”: 从“Eigen::Index”转换到“int”，可能丢失数据
+D:\C++程序\IMSim\IMSim\SimulateResiduals.h(191,36): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\C++程序\IMSim\IMSim\SimulateResiduals.h(233,54): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\C++程序\IMSim\IMSim\ResidualCE.h(60,1): warning C4305: “参数”: 从“double”到“const float”截断
+D:\C++程序\IMSim\IMSim\ResidualCE.h(70,1): warning C4305: “参数”: 从“double”到“const float”截断
+D:\C++程序\IMSim\IMSim\ResidualCE.h(71,1): warning C4305: “参数”: 从“double”到“const float”截断
+D:\C++程序\IMSim\IMSim\ResidualCE.h(72,1): warning C4305: “参数”: 从“double”到“const float”截断
+D:\C++程序\IMSim\IMSim\ResidualCE.h(73,1): warning C4305: “参数”: 从“double”到“const float”截断
+D:\C++程序\IMSim\IMSim\ResidualCE.h(74,1): warning C4305: “参数”: 从“double”到“const float”截断
+D:\C++程序\IMSim\IMSim\ResidualCE.h(75,1): warning C4305: “参数”: 从“double”到“const float”截断
+D:\C++程序\IMSim\IMSim\ResidualCE.h(76,1): warning C4305: “参数”: 从“double”到“const float”截断
+D:\C++程序\IMSim\IMSim\ResidualCE.h(77,1): warning C4305: “参数”: 从“double”到“const float”截断
+D:\C++程序\IMSim\IMSim\ResidualCE.h(78,1): warning C4305: “参数”: 从“double”到“const float”截断
+D:\C++程序\IMSim\IMSim\ResidualCE.h(82,1): warning C4305: “参数”: 从“double”到“const float”截断
+D:\C++程序\IMSim\IMSim\ResidualCE.h(83,1): warning C4305: “参数”: 从“double”到“const float”截断
+D:\C++程序\IMSim\IMSim\ResidualCE.h(84,1): warning C4305: “参数”: 从“double”到“const float”截断
+D:\C++程序\IMSim\IMSim\ResidualCE.h(85,1): warning C4305: “参数”: 从“double”到“const float”截断
+D:\C++程序\IMSim\IMSim\ResidualCE.h(86,1): warning C4305: “参数”: 从“double”到“const float”截断
+D:\C++程序\IMSim\IMSim\ResidualCE.h(87,1): warning C4305: “参数”: 从“double”到“const float”截断
+D:\C++程序\IMSim\IMSim\ResidualCE.h(88,1): warning C4305: “参数”: 从“double”到“const float”截断
+D:\C++程序\IMSim\IMSim\ResidualCE.h(89,1): warning C4305: “参数”: 从“double”到“const float”截断
+D:\C++程序\IMSim\IMSim\ResidualCE.h(90,1): warning C4305: “参数”: 从“double”到“const float”截断
+D:\C++程序\IMSim\IMSim\ResidualCE.h(94,1): warning C4305: “参数”: 从“double”到“const float”截断
+D:\C++程序\IMSim\IMSim\ResidualCE.h(95,1): warning C4305: “参数”: 从“double”到“const float”截断
+D:\C++程序\IMSim\IMSim\ResidualCE.h(96,1): warning C4305: “参数”: 从“double”到“const float”截断
+D:\C++程序\IMSim\IMSim\ResidualCE.h(97,1): warning C4305: “参数”: 从“double”到“const float”截断
+D:\C++程序\IMSim\IMSim\ResidualCE.h(98,1): warning C4305: “参数”: 从“double”到“const float”截断
+D:\C++程序\IMSim\IMSim\ResidualCE.h(99,1): warning C4305: “参数”: 从“double”到“const float”截断
+D:\C++程序\IMSim\IMSim\ResidualCE.h(100,1): warning C4305: “参数”: 从“double”到“const float”截断
+D:\C++程序\IMSim\IMSim\ResidualCE.h(101,1): warning C4305: “参数”: 从“double”到“const float”截断
+D:\C++程序\IMSim\IMSim\ResidualCE.h(102,1): warning C4305: “参数”: 从“double”到“const float”截断
+D:\C++程序\IMSim\IMSim\ResidualCE.h(106,30): warning C4018: “<”: 有符号/无符号不匹配
+D:\C++程序\IMSim\IMSim\ResidualCE.h(109,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\C++程序\IMSim\IMSim\ResidualCE.h(111,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\C++程序\IMSim\IMSim\ResidualCE.h(117,24): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\C++程序\IMSim\IMSim\ResidualCE.h(120,24): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\C++程序\IMSim\IMSim\ResidualCE.h(123,24): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\C++程序\IMSim\IMSim\ResidualCE.h(127,24): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\C++程序\IMSim\IMSim\ResidualCE.h(130,24): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\C++程序\IMSim\IMSim\ResidualCE.h(133,24): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\C++程序\IMSim\IMSim\ResidualCE.h(137,24): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\C++程序\IMSim\IMSim\ResidualCE.h(140,24): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\C++程序\IMSim\IMSim\ResidualCE.h(143,24): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\C++程序\IMSim\IMSim\ResidualCE.h(285,14): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+D:\C++程序\IMSim\IMSim\ResidualCE.h(293,16): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\C++程序\IMSim\IMSim\ResidualCE.h(312,30): warning C4018: “<”: 有符号/无符号不匹配
+D:\C++程序\IMSim\IMSim\ResidualCE.h(314,34): warning C4018: “<”: 有符号/无符号不匹配
+D:\C++程序\IMSim\IMSim\ResidualCE.h(328,55): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\C++程序\IMSim\IMSim\ResidualCE.h(364,34): warning C4018: “<”: 有符号/无符号不匹配
+D:\C++程序\IMSim\IMSim\ResidualCE.h(381,32): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\C++程序\IMSim\IMSim\EQSource_CB14PCA.h(64,20): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+D:\C++程序\IMSim\IMSim\EQSource_CB14PCA.h(64,23): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+D:\C++程序\IMSim\IMSim\EQSource_CB14PCA.h(64,26): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+D:\C++程序\IMSim\IMSim\EQSource_CB14PCA.h(144,1): warning C4305: “参数”: 从“double”到“const float”截断
+D:\C++程序\IMSim\IMSim\EQSource_CB14PCA.h(156,25): warning C4018: “<”: 有符号/无符号不匹配
+D:\C++程序\IMSim\IMSim\EQSource_CB14PCA.h(173,29): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\C++程序\IMSim\IMSim\EQSource_CB14PCA.h(174,29): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\C++程序\IMSim\IMSim\EQSource_CB14PCA.h(184,1): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\C++程序\IMSim\IMSim\EQSource_CB14PCA.h(186,1): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\C++程序\IMSim\IMSim\EQSource_CB14PCA.h(223,30): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+D:\C++程序\IMSim\IMSim\EQSource_CB14PCA.h(263,20): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\C++程序\IMSim\IMSim\EQSource_CB14PCA.h(265,26): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\C++程序\IMSim\IMSim\EQSource_CB14PCA.h(270,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\C++程序\IMSim\IMSim\EQSource_CB14PCA.h(272,25): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\C++程序\IMSim\IMSim\EQSource_CB14PCA.h(277,39): warning C4018: “<”: 有符号/无符号不匹配
+D:\C++程序\IMSim\IMSim\EQSource_CB14PCA.h(303,37): warning C4018: “<”: 有符号/无符号不匹配
+D:\C++程序\IMSim\IMSim\EQSource_CB14PCA.h(321,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\C++程序\IMSim\IMSim\EQSource_CB14PCA.h(364,25): warning C4018: “<”: 有符号/无符号不匹配
+D:\C++程序\IMSim\IMSim\EQSource_CB14PCA.h(883,1): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+D:\C++程序\IMSim\IMSim\EQSource_CB14PCA.h(958,10): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+D:\C++程序\IMSim\IMSim\EQSource_CB14PCA.h(992,21): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+D:\C++程序\IMSim\IMSim\EQSource_CB14PCA.h(992,19): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+D:\C++程序\IMSim\IMSim\EQSource_CB14PCA.h(992,17): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+D:\C++程序\IMSim\IMSim\EQSource_CB14PCA.h(1019,23): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+D:\C++程序\IMSim\IMSim\EQSource_CB14PCA.h(1019,20): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+D:\C++程序\IMSim\IMSim\EQSource_CB14PCA.h(1019,17): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+D:\C++程序\IMSim\IMSim\EQSource_CB14PCA.h(1046,23): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+D:\C++程序\IMSim\IMSim\EQSource_CB14PCA.h(1046,20): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+D:\C++程序\IMSim\IMSim\EQSource_CB14PCA.h(1046,17): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\utility(249,83): warning C4244: “参数”: 从“_Ty”转换到“const unsigned __int64”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xmemory(707): message : 查看对正在编译的函数 模板 实例化“std::pair<const int,std::vector<double,std::allocator<double>>>::pair<int,double,0>(std::pair<int,double> &&) noexcept(false)”的引用
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xmemory(714): message : 查看对正在编译的函数 模板 实例化“std::pair<const int,std::vector<double,std::allocator<double>>>::pair<int,double,0>(std::pair<int,double> &&) noexcept(false)”的引用
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xtree(811): message : 查看对正在编译的函数 模板 实例化“void std::_Default_allocator_traits<_Alloc>::construct<_Ty,std::pair<int,double>>(_Alloc &,_Objty *const ,std::pair<int,double> &&)”的引用
+          with
+          [
+              _Alloc=std::allocator<std::_Tree_node<std::pair<const int,std::vector<double,std::allocator<double>>>,std::_Default_allocator_traits<std::allocator<std::pair<const int,std::vector<double,std::allocator<double>>>>>::void_pointer>>,
+              _Ty=std::pair<const int,std::vector<double,std::allocator<double>>>,
+              _Objty=std::pair<const int,std::vector<double,std::allocator<double>>>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xtree(812): message : 查看对正在编译的函数 模板 实例化“void std::_Default_allocator_traits<_Alloc>::construct<_Ty,std::pair<int,double>>(_Alloc &,_Objty *const ,std::pair<int,double> &&)”的引用
+          with
+          [
+              _Alloc=std::allocator<std::_Tree_node<std::pair<const int,std::vector<double,std::allocator<double>>>,std::_Default_allocator_traits<std::allocator<std::pair<const int,std::vector<double,std::allocator<double>>>>>::void_pointer>>,
+              _Ty=std::pair<const int,std::vector<double,std::allocator<double>>>,
+              _Objty=std::pair<const int,std::vector<double,std::allocator<double>>>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xtree(1007): message : 查看对正在编译的函数 模板 实例化“std::_Tree_temp_node<std::allocator<std::_Tree_node<std::pair<const int,std::vector<double,std::allocator<double>>>,std::_Default_allocator_traits<_Alloc>::void_pointer>>>::_Tree_temp_node<_Ty>(_Alnode &,std::_Tree_node<std::pair<const int,std::vector<double,std::allocator<double>>>,std::_Default_allocator_traits<_Alloc>::void_pointer> *,_Ty &&)”的引用
+          with
+          [
+              _Alloc=std::allocator<std::pair<const int,std::vector<double,std::allocator<double>>>>,
+              _Ty=std::pair<int,double>,
+              _Alnode=std::allocator<std::_Tree_node<std::pair<const int,std::vector<double,std::allocator<double>>>,std::_Default_allocator_traits<std::allocator<std::pair<const int,std::vector<double,std::allocator<double>>>>>::void_pointer>>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xtree(1020): message : 查看对正在编译的函数 模板 实例化“std::_Tree_temp_node<std::allocator<std::_Tree_node<std::pair<const int,std::vector<double,std::allocator<double>>>,std::_Default_allocator_traits<_Alloc>::void_pointer>>>::_Tree_temp_node<_Ty>(_Alnode &,std::_Tree_node<std::pair<const int,std::vector<double,std::allocator<double>>>,std::_Default_allocator_traits<_Alloc>::void_pointer> *,_Ty &&)”的引用
+          with
+          [
+              _Alloc=std::allocator<std::pair<const int,std::vector<double,std::allocator<double>>>>,
+              _Ty=std::pair<int,double>,
+              _Alnode=std::allocator<std::_Tree_node<std::pair<const int,std::vector<double,std::allocator<double>>>,std::_Default_allocator_traits<std::allocator<std::pair<const int,std::vector<double,std::allocator<double>>>>>::void_pointer>>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xtree(1044): message : 查看对正在编译的函数 模板 实例化“std::pair<std::_Tree_node<std::pair<const int,std::vector<double,std::allocator<double>>>,std::_Default_allocator_traits<_Alloc>::void_pointer> *,bool> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::_Emplace<std::pair<int,double>>(std::pair<int,double> &&)”的引用
+          with
+          [
+              _Alloc=std::allocator<std::pair<const int,std::vector<double,std::allocator<double>>>>,
+              _Kty=int,
+              _Ty=std::vector<double,std::allocator<double>>,
+              _Pr=std::less<int>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xtree(1045): message : 查看对正在编译的函数 模板 实例化“std::pair<std::_Tree_node<std::pair<const int,std::vector<double,std::allocator<double>>>,std::_Default_allocator_traits<_Alloc>::void_pointer> *,bool> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::_Emplace<std::pair<int,double>>(std::pair<int,double> &&)”的引用
+          with
+          [
+              _Alloc=std::allocator<std::pair<const int,std::vector<double,std::allocator<double>>>>,
+              _Kty=int,
+              _Ty=std::vector<double,std::allocator<double>>,
+              _Pr=std::less<int>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\map(165): message : 查看对正在编译的函数 模板 实例化“std::pair<std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const int,std::vector<double,std::allocator<double>>>>>>,bool> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::emplace<std::pair<int,double>>(std::pair<int,double> &&)”的引用
+          with
+          [
+              _Kty=int,
+              _Ty=std::vector<double,std::allocator<double>>,
+              _Pr=std::less<int>,
+              _Alloc=std::allocator<std::pair<const int,std::vector<double,std::allocator<double>>>>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\map(165): message : 查看对正在编译的函数 模板 实例化“std::pair<std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const int,std::vector<double,std::allocator<double>>>>>>,bool> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::emplace<std::pair<int,double>>(std::pair<int,double> &&)”的引用
+          with
+          [
+              _Kty=int,
+              _Ty=std::vector<double,std::allocator<double>>,
+              _Pr=std::less<int>,
+              _Alloc=std::allocator<std::pair<const int,std::vector<double,std::allocator<double>>>>
+          ]
+D:\C++程序\IMSim\IMSim\EQSource_CB14PCA.h(161): message : 查看对正在编译的函数 模板 实例化“std::pair<std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const int,std::vector<double,std::allocator<double>>>>>>,bool> std::map<int,std::vector<double,std::allocator<double>>,std::less<int>,std::allocator<std::pair<const int,std::vector<double,std::allocator<double>>>>>::insert<std::pair<int,double>,0>(_Valty &&)”的引用
+          with
+          [
+              _Valty=std::pair<int,double>
+          ]
+D:\C++程序\IMSim\IMSim\EQSource_CB14PCA.h(161): message : 查看对正在编译的函数 模板 实例化“std::pair<std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const int,std::vector<double,std::allocator<double>>>>>>,bool> std::map<int,std::vector<double,std::allocator<double>>,std::less<int>,std::allocator<std::pair<const int,std::vector<double,std::allocator<double>>>>>::insert<std::pair<int,double>,0>(_Valty &&)”的引用
+          with
+          [
+              _Valty=std::pair<int,double>
+          ]
+  IMSim.vcxproj -> D:\C++程序\IMSim\x64\Debug\IMSim.exe
